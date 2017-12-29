@@ -1,5 +1,6 @@
 testing a change from [folder 2!!] folder 1
 
+i made a change from folder 2 to cause a conflict
 
-i made a change from folder 1 to create conflict
+Module 2 added from this branch
 
